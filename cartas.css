@@ -1,0 +1,36 @@
+body{font-family: 'Tahoma';color:white; text-align:center; background-color:#333}
+h1{font-size:40px}
+.carta{ 
+    border-radius: 10px;
+    background: url('img/baseCarta.png') no-repeat transparent;
+    padding-left:4px;
+    padding-top: 8px;
+    width: 230px;
+    height: 400px; margin-bottom:15px;
+    float:left; margin-right:15px;
+    position:relative;
+}
+.carta h2{font-size:12px; margin:0; padding:0; line-height:13px;color:red}
+.carta p {
+    font-size: 10px;
+    line-height:9px;
+    margin:1px;
+    text-align :center;
+    width: 93%;
+    color:#000 !important;
+}
+
+.carta table{
+    border: 1px solid black;    
+    width: 93%;
+    color:#000 !important;
+    margin-left:5px;
+}
+.col1 , .col2{color: black;border-bottom: 1px solid;padding:0; font-size: 11px;line-height: 12px}
+.col1 {
+    width: 50%;
+    text-align: left;
+}
+.col2 {
+    text-align: right;
+}

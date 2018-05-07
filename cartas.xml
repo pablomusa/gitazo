@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cartas.xsl" type="text/xsl"?>
+<personajes>
+    <personaje id="perso1">
+        <nombre>Martin Karadagian</nombre>
+        <descripcion>Es un verdadero campeón. Su gran experiencia y su espíritu combativo le han permitido crear un estilo. Es el mejor.</descripcion>
+        <edad>60</edad>
+        <peso>87</peso>
+        <altura>1.71</altura>
+        <pGanadas>1938</pGanadas>
+        <pPerdidas>0</pPerdidas>
+        <tipo>Luchador</tipo>
+        <imagen>martin.jpg</imagen>
+        <audio><![CDATA[https://www.youtube.com/watch?v=WT3QTB8qs9s&t=1226s]]></audio>
+    </personaje>
+    <personaje id="perso2">        
+        <nombre>El Diábolo</nombre>
+        <descripcion>Travieso y burlón, el Diabolo es un luchador extraños y de su estilo muy especial por su forma de desplazarse en el ring.</descripcion>
+        <edad>34</edad>
+        <peso>98</peso>
+        <altura>1.90</altura>
+        <pGanadas>111</pGanadas>
+        <pPerdidas>84</pPerdidas>
+        <tipo>Luchador</tipo>
+        <imagen>diabolo.jpg</imagen>
+        <audio><![CDATA[https://www.youtube.com/watch?v=WT3QTB8qs9s&t=1952s]]></audio>
+    </personaje>
+    <personaje id="perso3">
+        <nombre>Saturn 2021</nombre>
+        <descripcion>Es un sombrio extraterrestre, cuya torpeza de moviemientos se debe a que todavia no ha logrado adaptarse al Planeta Tierra.</descripcion>
+        <edad>35</edad>
+        <peso>87</peso>
+        <altura>1.78</altura>
+        <pGanadas>19</pGanadas>
+        <pPerdidas>121</pPerdidas>
+        <tipo>Luchador</tipo>
+       <imagen>saturno2021.jpg</imagen>
+        <audio><![CDATA[https://www.youtube.com/watch?v=WT3QTB8qs9s&t=945s]]></audio>
+    </personaje>
+    <personaje id="perso4">
+        <nombre>Long, Short y el Padrino</nombre>
+        <descripcion>Su oscuro pasado relacionado con el delito, hace que dominen a la perfección todas las tácticas antirreglamentarias.</descripcion>
+        <edad>31</edad>
+        <peso>98</peso>
+        <altura>1.91</altura>
+        <pGanadas>72</pGanadas>
+        <pPerdidas>180</pPerdidas>
+        <tipo>Luchador</tipo>
+       <imagen>longShort.jpg</imagen>
+        <audio><![CDATA[https://www.youtube.com/watch?v=WT3QTB8qs9s&t=269s]]></audio>
+    </personaje>
+    <personaje id="perso5">
+        <nombre>Mister Moto</nombre>
+        <descripcion>Su musculatura bien trabajada y su variedad de recursos lo han convertido en ídolo indiscutido de los niños.</descripcion>
+        <edad>32</edad>
+        <peso>92</peso>
+        <altura>1.78</altura>
+        <pGanadas>340</pGanadas>
+        <pPerdidas>3</pPerdidas>
+        <tipo>Luchador</tipo>
+       <imagen>mrMoto.jpg</imagen>
+        <audio><![CDATA[https://www.youtube.com/watch?v=WT3QTB8qs9s&t=1539s]]></audio>
+    </personaje>
+    <personaje id="perso6">
+        <nombre>El Hombre Vegetal</nombre>
+        <descripcion>Ni vegetal ni ser humano, simplemente HOMBRE VEGETAL, sus contorsiones similares a las de una enredadera desconciertan a sus oponentes.</descripcion>
+        <edad>23</edad>
+        <peso>80</peso>
+        <altura>1.77</altura>
+        <pGanadas>117</pGanadas>
+        <pPerdidas>4</pPerdidas>
+        <tipo>Luchador</tipo>
+       <imagen>hVegetal.jpg</imagen>
+        <audio><![CDATA[https://www.youtube.com/watch?v=WT3QTB8qs9s&t=670s]]></audio>
+    </personaje>
+    <personaje id="perso7">
+        <nombre>William Boo</nombre>
+        <descripcion>Arbitro cuyas actitudes y comportamiento son continuos desafios al Reglamento y al Comité de Veedores.</descripcion>
+        <edad>43</edad>
+        <peso>103</peso>
+        <altura>1.70</altura>
+        <pGanadas>0</pGanadas>
+        <pPerdidas>0</pPerdidas>        
+        <tipo>Arbitro</tipo>
+       <imagen>boo.jpg</imagen>
+    </personaje>
+
+</personajes>
